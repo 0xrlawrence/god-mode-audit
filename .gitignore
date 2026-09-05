@@ -1,0 +1,22 @@
+# --- fetched third-party knowledge bases (pulled by setup.sh; NOT redistributed here) ---
+domains/*/upstream/
+domains/**/upstream/
+
+# --- private audit work / findings / client material (never commit) ---
+audits/
+case-studies/
+findings/
+private/
+*-report.md
+*-audit-report*.md
+*-disclosure*.md
+*.pem
+*.key
+
+# --- os / editor / scratch ---
+.DS_Store
+Thumbs.db
+*.swp
+scratch/
+tmp/
+.env
