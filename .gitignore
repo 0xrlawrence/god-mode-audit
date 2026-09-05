@@ -13,6 +13,10 @@ private/
 *.pem
 *.key
 
+# but DO keep the repo's own report template
+!templates/
+!templates/finding-report.md
+
 # --- os / editor / scratch ---
 .DS_Store
 Thumbs.db
