@@ -19,16 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-NOTE ON SCOPE OF THIS LICENSE
-
-The MIT license above covers ONLY the original material in this repository:
-the God Mode Audit playbook, the methodology documents, the domain index and
-taxonomy documents, the templates, and the setup script.
-
-This repository does NOT include the third-party knowledge bases it references
-(pashov, strix, skraft9, Trail of Bits). Those are fetched from their own
-upstreams by setup.sh and remain under their own respective licenses. See
-ACKNOWLEDGEMENTS.md.

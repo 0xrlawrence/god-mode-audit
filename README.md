@@ -141,6 +141,10 @@ god-mode-audit/
 
 ---
 
+## License
+
+MIT (see `LICENSE`). The MIT license covers only the original material in this repository: the playbook, the methodology documents, the domain index and taxonomy documents, the templates, and `setup.sh`. The four referenced knowledge bases are NOT included here; they are fetched from their own upstreams by `setup.sh` and remain under their own licenses (see `ACKNOWLEDGEMENTS.md`).
+
 ## Contributing
 
 Issues and PRs welcome for the original playbook (methodology, taxonomies, templates). Do not submit third-party content for vendoring here; add it as a reference in `setup.sh` and `ACKNOWLEDGEMENTS.md` instead. Never include live/unpatched vulnerability details or client material.
